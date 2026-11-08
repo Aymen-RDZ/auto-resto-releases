@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.1-test",
+    "versionCode":  7,
+    "versionName":  "1.1",
     "apkUrl":  "https://github.com/Aymen-RDZ/auto-resto-releases/releases/download/v1.1/Auto-Resto-1.1.apk",
     "sha256":  "8db5700f5de899dde6c76ada5454d16919b51fa0b8d70d929133a43c7daf7798",
-    "notes":  "Update dialog test",
+    "notes":  "Auto-Resto 1.1\n\n- Weekly preferences now sync to your account and come back on another phone (no password stored)\n- In-app update checker with download progress and automatic install\n- Version label under the startup animation\n- Fixed: the easter-egg explosion starts from the header icon in Arabic (RTL)\n- Cloud sync can be switched off in Settings",
     "publishedAt":  "2026-11-08T16:33:24Z"
 }
