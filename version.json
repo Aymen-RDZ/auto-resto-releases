@@ -1,0 +1,7 @@
+{
+  "versionCode": 1001,
+  "versionName": "1.001",
+  "apkUrl": "https://raw.githubusercontent.com/Aymen-RDZ/auto-resto-releases/main/AutoResto-1.001.apk",
+  "sha256": "17734b85ce61de663f7bf5c6906179eaf72203ed9aef4d0083e694a9ae653c5a",
+  "notes": "Première version publique.\n- Mise à jour directement depuis l'application\n- Synchronisation cloud des préférences\n- Correction du plantage de l'animation d'en-tête\n\nFirst public release.\n- Updates from inside the app\n- Cloud preference sync\n- Fixed the header animation crash"
+}
