@@ -1,7 +1,7 @@
 {
-    "versionCode":  1002,
-    "versionName":  "1.002",
-    "apkUrl":  "https://raw.githubusercontent.com/Aymen-RDZ/auto-resto-releases/main/AutoResto-1.002.apk",
-    "sha256":  "cb6ff855d31fc482de77a468a1703e4f33672e45537ec561abad9ff467bcef19",
-    "notes":  "Quoi de neuf :\n- Rappel à 23 h pour les repas du lendemain non réservés, avec le bouton Réserver maintenant\n- Les coches de la semaine suivent vos préférences\n- Animations plus douces et corrections\n\nWhat\u0027s new:\n- 23:00 reminder for tomorrow\u0027s missing meals, with a Reserve now button\n- Week view ticks follow your weekly preferences\n- Smoother animations and fixes"
+    "versionCode":  1003,
+    "versionName":  "1.003",
+    "apkUrl":  "https://raw.githubusercontent.com/Aymen-RDZ/auto-resto-releases/main/AutoResto-1.003.apk",
+    "sha256":  "bafedf8b4dca15e7588a2abf2b83a6c6577c8e390a0d46647386ab4d5a435e54",
+    "notes":  "Quoi de neuf :\n- Connexion rétablie : le serveur bloquait les téléphones Android, le login et les réservations fonctionnent à nouveau\n- Notification du vendredi (Jumu'ah) avec son grave et verset\n- Partage de l'application, annonces de mise à jour et mode sùr après plantage\n- Les étudiants sans logement peuvent maintenant se connecter\n\nWhat's new:\n- Sign-in fixed: the server was blocking Android phones, so login and reservations work again\n- Blessed Friday (Jumu'ah) notification with a deep sound and a verse\n- Share the app, release announcements and safe mode after a crash\n- Non-resident students can now sign in"
 }
